@@ -1,0 +1,47 @@
+nav {	    
+	border-bottom: 2px solid #FF69B4;
+}
+nav a {
+	text-decoration: none;
+	color: #555D66;
+	padding: 6px 10px;
+	font-size: 35px;
+	font-family: "Arial", sans-serif;	
+}
+
+nav a:hover {
+	background-color: #FF69B4;
+	color: #333;
+}
+
+body {	
+    background-color: #ADD8E6; /* Choose your desired background color */
+    text-align: center;
+}
+
+.container {
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 20px;    
+}
+
+h1 {
+    font-size: 36px;
+    color: #FF69B4
+}
+
+p {
+  font-size: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+footer {
+	background-color: #36454F; /* Add background color */
+	padding: 1px;
+	color: #F8F8FF;
+}
